@@ -1,0 +1,15 @@
+## install.packages("pharmaversesdtm")
+### Declare libraries to be used ###----
+
+library(xportr)
+library(dplyr)
+library(tidyr)
+library(lubridate)
+library(stringr)
+library(pharmaversesdtm)
+data("ae")
+data("dm")
+data("ex")
+data("cm")
+data("mh")
+data("vs")
